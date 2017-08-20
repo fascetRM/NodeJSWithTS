@@ -1,0 +1,9 @@
+{
+  "name": "node-app-with-ts",
+  "version": "0.0.0",
+  "description": "NodeAppWithTS",
+  "main": "app.js",
+  "author": {
+    "name": "rmurray"
+  }
+}
